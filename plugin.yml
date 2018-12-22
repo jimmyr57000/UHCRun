@@ -1,0 +1,5 @@
+name: UHCRun
+author: jimmyr57000
+version: 1.0.1
+main: me.rellynn.plugins.uhcrun.UHCRunPlugin
+depend: [WorldEdit]
